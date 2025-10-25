@@ -16,7 +16,6 @@ import { useEffect, useState } from "react"
 //it run before printing all the elements in dom and it is synchoronus in nature(useEffect is asychronous)
 
 
-
 export const Pratice2 = () => {
 
     const [count,setCount]=useState(0);

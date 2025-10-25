@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react'
+import { useReducer } from 'react'
 //useContext hook is used to manage global data in react application
 //global state , services , themes ,user settings
 //create context requires 3 simple steps

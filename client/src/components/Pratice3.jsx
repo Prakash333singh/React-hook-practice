@@ -6,7 +6,7 @@
 //we perform all side effect in useEffect hook
 //all expensive functions ,calculation in useMemo hook.
 
-import React, { useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 
 const Pratice3 = () => {
     const [count,setCount]=useState(0);
